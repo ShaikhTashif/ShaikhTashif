@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Currently Learning: Python, Data Structures & Algorithms, and AI/ML concepts with a focus on building recruiter-ready portfolio projects.<br><br>Looking to Collaborate On: Open-source contributions, data-driven projects, and innovative AI/ML applications.<br><br>Looking for Help With: Advanced logic building, system design patterns, and practical applications of machine learning.<br><br>Fun Fact: I’ve solved 250+ problems on LeetCode and enjoy turning complex problems into visual flowcharts for clarity.<br><br>Basic Detail:<br><br>🎓 Pursuing Bachelor of Computer Applications (SRTM University, Nanded, Maharashtra, 2023–2026, CGPA 8+)<br><br>📍 Based in Nanded, Maharashtra, India<br><br>💼 Aspiring AI/Data-driven Developer actively documenting milestone-driven projects for recruiter visibility
+Currently Learning: Python, Data Structures & Algorithms, and AI/ML concepts with a focus on building my portfolio projects Improving my self.<br><br>Looking to Collaborate On: Open-source contributions, data-driven projects, and innovative AI/ML applications.<br><br>Looking for Help With: Advanced logic building, system design patterns, and practical applications of machine learning.<br><br>Fun Fact: I’ve solved 250+ problems on LeetCode and enjoy turning complex problems into visual flowcharts for clarity.<br><br>Basic Detail:<br><br>🎓 Pursuing Bachelor of Computer Applications (SRTM University, Nanded, Maharashtra, 2023–2026, CGPA 8+)<br><br>📍 Based in Nanded, Maharashtra, India<br><br>💼 Aspiring AI/Data-driven Developer actively documenting milestone-driven projects for recruiter visibility
 
 
 ## 🌐 Socials:
